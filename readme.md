@@ -1,8 +1,30 @@
-# nft
+# `Horang iee` NFTs
+> Tiger = 호랑이 (Horang iee) in kr
 
-## ERC1155 bulk mint
 
-### refs
+<div align="center">
+
+<img src="assets/images/main_horang.png" />
+
+<a href="https://metiger.cafe24.com/home/">Website</a>
+
+</div>
+
+
+
+## Horang PFP 
+
+<div align="center">
+
+<img style="width:265px;height:265px" src="assets/images/horang.png" />
+<img style="width:265px;height:265px" src="assets/images/horang2.jpeg" />
+
+</div>
+
+
+## refs
+> Mainly based on [Opensea Developers Docs](https://docs.opensea.io/docs/creating-an-nft-contract)
+
 1. [ ] [opensea gas fees](https://opensea.io/learn/nft-gas-fees)
 2. [ ] [opensea nft integration source code](https://github.com/ProjectOpenSea/opensea-creatures)
 3. [ ] [opensea-erc1155 archive](https://github.com/ProjectOpenSea/opensea-erc1155)
