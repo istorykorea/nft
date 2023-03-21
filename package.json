@@ -1,0 +1,42 @@
+{
+  "name": "horangee",
+  "version": "1.0.0",
+  "description": "The tiger from Mountain Baekdu NFT",
+  "main": "index.js",
+  "directories": {
+    "doc": "docs"
+  },
+  "scripts": {
+    "dev": "NODE_ENV=dev",
+    "prod": "NODE_ENV=dev"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/istorykorea/nft.git"
+  },
+  "keywords": [
+    "nft",
+    "horangee",
+    "tiger",
+    "eth",
+    "erc1155",
+    "pfp"
+  ],
+  "author": "minkj1992@gmail.com",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/istorykorea/nft/issues"
+  },
+  "homepage": "https://github.com/istorykorea/nft#readme",
+  "devDependencies": {
+    "@nomiclabs/hardhat-ethers": "^2.2.2",
+    "@nomiclabs/hardhat-etherscan": "^3.1.7",
+    "ethers": "^5.7.2",
+    "hardhat": "^2.13.0",
+    "node-fetch": "^3.3.1"
+  },
+  "dependencies": {
+    "@openzeppelin/contracts": "^4.8.2",
+    "dotenv": "^16.0.3"
+  }
+}

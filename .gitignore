@@ -1,0 +1,9 @@
+node_modules
+artifacts
+cache
+package-lock.json
+
+# dotenv environment variable files
+.env
+.env.dev
+.env.prod

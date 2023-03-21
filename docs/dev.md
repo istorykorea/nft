@@ -49,4 +49,10 @@ Generate alchemy app to get an `APP_KEY`
 
 ```bash
 > npx hardhat compile
+
+# dev phase
+> npx hardhat run scripts/deploy.js --network goerli
+Deploying contracts with the account: 0xF69E1c1Abbf0F4cE262211DAFcba2eE204bDcE63
+Account balance: 100000000000000000
+Contract deployed to address: 0x2467CEeEfC63C0C08b99acb9592a87A4D95cD8fd
 ```
