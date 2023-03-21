@@ -1,5 +1,5 @@
-# `Horang iee` NFTs
-> Tiger = 호랑이 (Horang iee) in kr
+# `Horangee` NFTs
+> Tiger = 호랑이 (Horangee) in kr
 
 
 <div align="center">
@@ -10,9 +10,29 @@
 
 </div>
 
+## Technology Stack & Tools
 
+- `Solidity` (Writing Smart Contract)
+- `Hardhat` (Test )
+- `Ethers.js`
+- `Etherscan`
+- `IPFS`
+- `NFT.storage`
+- `MetaMask` (Wallet)
+- `Alchemy`
+- `OpenZeppelin`
 
-## Horang PFP 
+## On-chain network
+
+- Dev phase
+    - `Rinkeby`(deprecated) or [`Goerli`](https://goerli.net/)
+    - https://testnets.opensea.io/
+- Production phase
+    - Ethereum mainnet
+    - https://opensea.io/
+
+## `Horangee` PFP  on opensea
+
 
 <div align="center">
 
