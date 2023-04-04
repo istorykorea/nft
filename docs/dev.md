@@ -1,7 +1,21 @@
 # dev process
 
-## Getting Started
+## keywords in ether infra
 
+- **Hardhat vs truffle**: Ether developer utils helper
+- **Alchemy vs INFURA**: Node provider
+  - Naturally, hosting smart contracts requires you to set up a node of the blockchain.
+  - In essence, they are node providers; i.e., they provide remote access to blockchain services so you don’t have to run your own node.
+- **Goerli vs Sepolia**: Ether testnet
+- **ERC721 vs ERC1155**
+  - ERC1155 facilitate batch transfers, also reduces gas up to 90%.
+  - ERC721 need for tx to be created for individual NFTs it leads to slow.
+  - ERC721 only supports the creation of NFTs but ERC1155 supports creation of NFTs but also fungible and semi-fungible token. This flexibility is a significant advantage. 
+  - ERC1155 can support DEX.
+  - 
+
+
+## Getting Started
 
 #### 1. install dependencies
 
